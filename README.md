@@ -3,6 +3,46 @@
 </h1>
 
 <h2 align="center">
+    <span style="font-family: Mabry Pro">Биоалгоритмууд</span>
+</h2>
+
+<table style="width: 100%;">
+<tr>
+<td>
+
+<h4>Лaборатори</h4>
+
+![100%](https://progress-bar.dev/100)
+
+| Лаборатори | Дуусах хугацаа |
+| ---------- | -------------- |
+| ✓ Lab 1    |                |
+| ✓ Lab 2    |                |
+| ✓ Lab 3    |                |
+| ✓ Lab 4    |                |
+| ✓ Lab 5    |                |
+| ✓ Lab 6    |                |
+| ✓ Lab 7    |                |
+| ✓ Lab 8    |                |
+| ✓ Lab 9    |                |
+
+</td>
+<td style="margin-left: 50px;">
+
+<h4>Бие даалт</h4>
+
+![0%](https://progress-bar.dev/0)
+
+| Бие даалт     | Дуусах хугацаа |
+| ------------- | -------------- |
+| ✗ Бие даалт 1 |                |
+| ✗ Бие даалт 2 |                |
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">
     <span style="font-family: Mabry Pro">Параллел программчлал</span>
 </h2>
 
