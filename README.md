@@ -3,6 +3,42 @@
 </h1>
 
 <h2 align="center">
+    <span style="font-family: Mabry Pro">Параллел программчлал</span>
+</h2>
+
+<table style="width: 100%;">
+<tr>
+<td>
+
+<h4>Лaборатори</h4>
+
+![20%](https://progress-bar.dev/20)
+
+| Лаборатори | Дуусах хугацаа |
+| ---------- | -------------- |
+| ✓ Lab 1    |                |
+| ✗ Lab 2    |                |
+| ✗ Lab 3    |                |
+| ✗ Lab 4    |                |
+| ✗ Lab 5    |                |
+
+</td>
+<td style="margin-left: 50px;">
+
+<h4>Бие даалт</h4>
+
+![0%](https://progress-bar.dev/0)
+
+| Бие даалт     | Дуусах хугацаа |
+| ------------- | -------------- |
+| ✗ Бие даалт 1 | March 28       |
+| ✗ Бие даалт 2 |                |
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">
     <span style="font-family: Mabry Pro">Эх хэлний боловсруулалт</span>
 </h2>
 
